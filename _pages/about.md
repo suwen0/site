@@ -22,7 +22,8 @@ Education
 
 Work Experience
 ======
-- **J.P. Morgan Chase** (2023.10-2027.10)\\
+- **J.P. Morgan Chase** (2023.10-2027.10)
+  
   Ph.D. Associate, Quantitative Research
 
 Site-wide configuration
