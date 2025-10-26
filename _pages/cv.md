@@ -12,6 +12,9 @@ redirect_from:
 Publications
 ------
 
+---
+
+
 - **Distance to Default Based on the CEV–KMV Model**  <br/>
   *Wen Su* <br/>
   **Journal of Risk**, 2022. *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)* 
@@ -21,6 +24,8 @@ Publications
 
 Working Papers
 ------
+
+---
 
 
 - **Should We Augment Large Covariance Matrix Estimation with Auxiliary Network Information?**  <br/>
@@ -54,9 +59,11 @@ Working Papers
 Work in Progress
 ------
 
+---
+
 
 - **Text as Priors**  <br/>
-  Shuyi Ge, Shaoran Li, *Wen Su* <br/>
+  Shuyi Ge, Shaoran Li, Oliver Linton, *Wen Su* <br/>
   2025+
   
 ---
