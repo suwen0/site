@@ -18,16 +18,17 @@ Education
 ======
 - **University of Oxford**
 
-  Ph.D., Mathematics, 2023.10-2027.7(Expected)
+  Ph.D., Mathematics, Oct. 2023 - Jul. 2027 (Expected)
+  
   
 - **Peking University**
 
-  Master, Financial Mathematics, 2020.9-2022.7
+  Master, Financial Mathematics, Sep. 2020 - Jul. 2022
 
   
 - **Lishui University**
 
-  Bachelor, Mathematics and Applied Mathematics, 2016.9-2020.6
+  Bachelor, Mathematics and Applied Mathematics, Sep. 2016 - Jul. 2020
 
   
 
@@ -35,11 +36,12 @@ Work Experience
 ======
 - **J.P. Morgan Chase**
 
-  Ph.D. Associate, Quantitative Research, London, 2023.10-2027.7(Expected)
+  Ph.D. Associate, Quantitative Research, London, Oct. 2023 - Jul. 2027 (Expected)
+  
 
 - **PKU FinLab**
 
-  Research Assistant, Beijing, 2022.7-2023.8
+  Research Assistant, Beijing, Jul. 2022 - Aug. 2023
 
 Site-wide configuration
 ------
