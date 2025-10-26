@@ -35,7 +35,7 @@ Working Papers
 
 ---
 
-- **Specification-LASSO and An Application in Financial Markets**  <br/>
+- **Specification-LASSO and a Flexible Characteristics-Based Asset Pricing Model**  <br/> 
   haohua Dong, Shuyi Ge, Shaoran Li, *Wen Su* <br/>
   **Journal of Business & Economic Statistics**, *Under Review*, 2025.
 
