@@ -9,10 +9,11 @@ redirect_from:
 
 I am a Ph.D. student in Mathematical Institute, University of Oxford. I am supervised by Prof. Blanka Horvath and supported by J.P. Morgan through Centre for Doctoral Training in Mathematics of Random Systems.
 
-My research interests are:
+Research Interests
+======
 - **Financial Econometrics**: high dimensional statistics, semi-parametric methods, LASSO
   
-- **Quantitative Finance**: path signature, credit risk
+- **Quantitative Finance**: path signature, credit risk, credit derivative pricing
 
 
 Education
