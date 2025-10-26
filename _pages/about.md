@@ -7,16 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mathematical Institute, University of Oxford.
+I am a Ph.D. student in Mathematical Institute, University of Oxford. 
 
-My research interests are financial econometrics and quantitative finance, including high dimensional statistics, semi-parametric methods, credit risk and signatures.
+My research interests are:
+- **Financial Econometrics**: high dimensional statistics, semi-parametric methods, LASSO
+- **Quantitative Finance**: path signature, credit risk
 
 
 Education
 ======
 - (Expected) 2027, Ph.D., Mathematics, University of Oxford
 - 2022, Master, Financial Mathematics, Peking University
-- 2022, Bachelor, Mathematics and Applied Mathematics, Lishui University
+- 2020, Bachelor, Mathematics and Applied Mathematics, Lishui University
 
 Getting started
 ======
