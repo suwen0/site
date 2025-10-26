@@ -14,7 +14,7 @@ My research interests are financial econometrics and quantitative finance, inclu
 
 Education
 ======
-- 2027 (Expected), Ph.D., Mathematics, University of Oxford
+- (Expected) 2027, Ph.D., Mathematics, University of Oxford
 - 2022, Master, Financial Mathematics, Peking University
 - 2022, Bachelor, Mathematics and Applied Mathematics, Lishui University
 
