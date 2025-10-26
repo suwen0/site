@@ -12,13 +12,6 @@ redirect_from:
 Publications
 ------
 
-- **Heterogeneous Spatial Factors Pricing Model in China Market** <br/>
-  Shuyi Ge, Shaoran Li, Xinping Li, *Wen Su* <br/>
-  **Chinese Journal of Econometrics** (计量经济学报), *Revise & Resubmit*, 2025. 
-
----
-
-
 - **Distance to Default Based on the CEV–KMV Model**  <br/>
   *Wen Su* <br/>
   **Journal of Risk**, 2022. *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)* 
@@ -28,3 +21,55 @@ Publications
 
 Working Papers
 ------
+
+
+- **Should We Augment Large Covariance Matrix Estimation with Auxiliary Network Information?**  <br/>
+  Shuyi Ge, Shaoran Li, Oliver Linton, Weiguang Liu, *Wen Su* <br/>
+  **Journal of Econometrics**, *Revise & Resubmit*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975753)* 
+
+
+---
+
+- **Specification-LASSO and An Application in Financial Markets**  <br/>
+  haohua Dong, Shuyi Ge, Shaoran Li, *Wen Su* <br/>
+  **Journal of Business & Economic Statistics**, *Under Review*, 2025.
+
+---
+
+
+- **Introducing SPEC: A Semi-Parametric Equity-Credit Model for CDS Spread Estimation**  <br/>
+  Matthias Arnsdorf, Blanka Horvath, Spyros Schismenos, *Wen Su*$^{*}$ <br/>
+  **Quantitative Finance**, *Under Review*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5471406)* 
+
+---
+
+- **Heterogeneous Spatial Factors Pricing Model in China Market** <br/>
+  Shuyi Ge, Shaoran Li, Xinping Li, *Wen Su* <br/>
+  **Chinese Journal of Econometrics** (计量经济学报), *Revise & Resubmit*, 2025. *[PKU FinLab Preprint](http://finlab.pku.edu.cn/Upload_out/Web_File/Research_File/%E6%96%B0%E9%97%BB%E4%B8%AD%E6%96%87_12.10_reducesize.pdf)* 
+
+---
+
+
+
+Work in Progress
+------
+
+
+- **Text as Priors**  <br/>
+  Shuyi Ge, Shaoran Li, *Wen Su* <br/>
+  2025+
+  
+---
+
+- **Dynamic Heterogeneous Spatial Autoregression Model**  <br/>
+  *Wen Su* <br/>
+  2025+
+
+---
+
+- **Signature Methods in Credit Market**  <br/>
+  Matthias Arnsdorf, Blanka Horvath, Spyros Schismenos, *Wen Su* <br/>
+  2025+
+
+---
+
