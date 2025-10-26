@@ -18,7 +18,7 @@ Publications
   **Chinese Journal of Econometrics** (计量经济学报), *Revise & Resubmit*, 2025. 
 
 
-- **Distance to Default Based on the CEV–KMV Model** [Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)  <br/>
+- **Distance to Default Based on the CEV–KMV Model** *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)*  <br/>
   *Wen Su* <br/>
   **Journal of Risk**, 2022. 
 
