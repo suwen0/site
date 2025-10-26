@@ -20,27 +20,27 @@ Research Interests
 Education
 ------
 - **University of Oxford** <br/>
-  $-$ Ph.D., Mathematics
-  $-$ Oct. 2023 - Jul. 2027 (Expected)
+  Ph.D., Mathematics <br/>
+  Oct. 2023 - Jul. 2027 (Expected)
   
 - **Peking University** <br/>
-  $-$ Master, Financial Mathematics
+  Master, Financial Mathematics <br/>
   $-$ Sep. 2020 - Jul. 2022
 
 - **Lishui University** <br/>
-  $-$ Bachelor, Maths and Applied Maths
-  $-$ Sep. 2016 - Jul. 2020
+  Bachelor, Maths and Applied Maths <br/>
+  Sep. 2016 - Jul. 2020
 
   
 
 Work Experience
 ------
 - **J.P. Morgan Chase** <span style="color:#DCDCDC"> *(London)* </span> <br/>
-  $-$ Ph.D. Associate, Quantitative Research <br/>
-  $-$ Oct. 2023 - Jul. 2027 (Expected)
+  Ph.D. Associate, Quantitative Research <br/>
+  Oct. 2023 - Jul. 2027 (Expected)
   
 
 - **PKU FinLab** <span style="color:#DCDCDC"> *(Beijing)* </span> <br/>
-  $-$ Research Assistant, Asset Pricing  <br/>
-  $-$ Jul. 2022 - Aug. 2023  <br/>
+  Research Assistant, Asset Pricing  <br/>
+  Jul. 2022 - Aug. 2023  <br/>
 
