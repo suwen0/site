@@ -25,7 +25,7 @@ Education
   
 - **Peking University** <br/>
   Master, Financial Mathematics <br/>
-  $-$ Sep. 2020 - Jul. 2022
+  Sep. 2020 - Jul. 2022
 
 - **Lishui University** <br/>
   Bachelor, Maths and Applied Maths <br/>
