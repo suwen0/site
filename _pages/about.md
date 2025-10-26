@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mathematical Institute, University of Oxford. I am supervised by Prof. Blanka Horvath and supported by J.P. Morgan through Centre for Doctoral Training in Mathematics of Random Systems.
+I am a Ph.D. student in Mathematical Institute, *[University of Oxford](https://www.ox.ac.uk/)*. I am supervised by *Prof. Blanka Horvath* and supported by *J.P. Morgan* through [Centre for Doctoral Training in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk/).
 
 Research Interests
 ------
