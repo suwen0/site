@@ -15,9 +15,9 @@ Publications
 
 
 
-- **Distance to default based on the CEV–KMV model**
-*Wen Su*
-**Journal of Risk**, 2022. 
+- **Distance to default based on the CEV–KMV model** <br/>
+  *Wen Su* <br/>
+  **Journal of Risk**, 2022. 
 
 
 
