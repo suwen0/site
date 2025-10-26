@@ -44,3 +44,12 @@ Work Experience
   Research Assistant, Asset Pricing  <br/>
   Jul. 2022 - Aug. 2023  <br/>
 
+
+Teaching
+------
+- Fixed Point Methods for Nonlinear PDEs (Part C), 2023 Hilary Term, University of Oxford
+- Financial Econometrics (Graduate), 2022 Fall, Peking University
+- Statistical Inference (Graduate), 2022 Spring
+
+
+
