@@ -80,3 +80,9 @@ Work in Progress
 
 ---
 
+- **Nonparametric Pareto Tail Index and Portfolio Risk Management**  <br/>
+  Jingwen Lyu, *Wen Su* <br/>
+  2025+
+
+---
+
