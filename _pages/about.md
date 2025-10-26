@@ -35,12 +35,12 @@ Education
 
 Work Experience
 ------
-- **J.P. Morgan Chase** <span style="color:#DCDCDC"> *(London)* </span> <br/>
+- **J.P. Morgan Chase** <span style="color:#888888"> *(London)* </span> <br/>
   Ph.D. Associate, Quantitative Research <br/>
   Oct. 2023 - Jul. 2027 (Expected)
   
 
-- **PKU FinLab** <span style="color:#DCDCDC"> *(Beijing)* </span> <br/>
+- **PKU FinLab** <span style="color:#888888"> *(Beijing)* </span> <br/>
   Research Assistant, Asset Pricing  <br/>
   Jul. 2022 - Aug. 2023  <br/>
 
