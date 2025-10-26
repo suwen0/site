@@ -35,7 +35,7 @@ Work Experience
 ======
 - **J.P. Morgan Chase**
 
-  Ph.D. Associate, Quantitative Research, London, 2023.10-Present
+  Ph.D. Associate, Quantitative Research, London, 2023.10-2027.7(Expected)
 
 - **PKU FinLab**
 
