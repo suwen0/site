@@ -48,9 +48,10 @@ Work Experience
 
 Teaching
 ------
+- Statistics and Financial Data Analysis (MSc), 2024 Michaelmas Term, University of Oxford
 - Fixed Point Methods for Nonlinear PDEs (Part C), 2023 Hilary Term, University of Oxford
 - Financial Econometrics (Graduate), 2022 Fall, Peking University
-- Statistical Inference (Graduate), 2022 Spring
+- Statistical Inference (Graduate), 2022 Spring, Peking University
 
 
 
