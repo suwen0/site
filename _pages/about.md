@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Mathematical and Computation Finance, Mathematical Institute, *University of Oxford*. 
+I am a Ph.D. student in Mathematical Institute, *University of Oxford*. 
 
 I am supervised by *Prof. Blanka Horvath* and supported by *J.P. Morgan* through [CDT in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk/).
 
@@ -21,7 +21,7 @@ Research Interests
 Education
 ------
 - **University of Oxford** <br/>
-  Ph.D., Mathematics <br/>
+  Ph.D., Mathematical and Computational Finance <br/>
   Oct. 2023 - Jul. 2027 (Expected)
   
 - **Peking University** <br/>
