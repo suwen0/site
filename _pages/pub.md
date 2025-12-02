@@ -30,7 +30,7 @@ Working Papers
 
 - **Should We Augment Large Covariance Matrix Estimation with Auxiliary Network Information?**  <br/>
   Shuyi Ge, Shaoran Li, Oliver Linton, Weiguang Liu, *Wen Su* <br/>
-  **Journal of Econometrics**, *Revise & Resubmit*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975753)* 
+  **Journal of Econometrics**, *Revise & Resubmit*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975753)* <br/>
   *Pre*: CJOE Bigdatametrics 2025, CFE-CMStatistics 2025
 
 ---
@@ -44,7 +44,7 @@ Working Papers
 
 - **Introducing SPEC: A Semi-Parametric Equity-Credit Model for CDS Spread Estimation**  <br/>
   Matthias Arnsdorf, Blanka Horvath, Spyros Schismenos, *Wen Su*\# <br/>
-  **Quantitative Finance**, *Under Review*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5471406)* 
+  **Quantitative Finance**, *Under Review*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5471406)*  <br/>
 
 ---
 
