@@ -14,10 +14,9 @@ Publications
 
 ---
 
-
-- **Distance to Default Based on the CEV–KMV Model**  <br/>
-  *Wen Su* <br/>
-  **Journal of Risk**, 2022. *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)* 
+- **Heterogeneous Spatial Factors Pricing Model in China Market** <br/>
+  Shuyi Ge, Shaoran Li, Xinping Li, *Wen Su* <br/>
+  **Chinese Journal of Econometrics** (计量经济学报), *Accepted*, 2025. *[PKU FinLab Preprint](http://finlab.pku.edu.cn/Upload_out/Web_File/Research_File/%E6%96%B0%E9%97%BB%E4%B8%AD%E6%96%87_12.10_reducesize.pdf)* 
 
 ---
 
@@ -26,7 +25,6 @@ Publications
   **Chinese Journal of Econometrics** (计量经济学报), *Accepted*, 2025. *[PKU FinLab Preprint](http://finlab.pku.edu.cn/Upload_out/Web_File/Research_File/%E6%96%B0%E9%97%BB%E4%B8%AD%E6%96%87_12.10_reducesize.pdf)* 
 
 ---
-
 
 Working Papers
 ------
