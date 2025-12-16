@@ -22,7 +22,7 @@ Publications
 
 - **Distance to Default based on the CEV-KMV Model** <br/>
   *Wen Su*# <br/>
-  **Journal of Risk** (计量经济学报), 2022. *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)* 
+  **Journal of Risk**, 2022. *[Link](https://www.risk.net/journal-of-risk/7954316/distance-to-default-based-on-the-cev-kmv-model)* 
 
 ---
 
