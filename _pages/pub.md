@@ -49,6 +49,7 @@ Working Papers
 - **Introducing SPEC: A Semi-Parametric Equity-Credit Model for CDS Spread Estimation**  <br/>
   Matthias Arnsdorf, Blanka Horvath, Spyros Schismenos, *Wen Su*\# <br/>
   **Quantitative Finance**, *Under Review*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5471406)*  <br/>
+  Presentation: *CDT Mathematics of Random Systems Seminar 2024*
 
 ---
 
