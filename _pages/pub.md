@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+<span style="color:#888888"> \#: Corresponding Author  </span>  <br/>
+<span style="color:#888888"> \*: Alphabetical Order </span>    <br/>
+
 Publications
 ------
-<span style="color:#888888"> \#: Corresponding Author $\qquad$   \*: Alphabetical Order </span>
 
 
 ---
