@@ -35,7 +35,7 @@ Working Papers
 - **Should We Augment Large Covariance Matrix Estimation with Auxiliary Network Information?**  <br/>
   Shuyi Ge, Shaoran Li, Oliver Linton, Weiguang Liu, *Wen Su* <br/>
   **Journal of Econometrics**, *Revise & Resubmit*, 2025. *[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4975753)* <br/>
-  Presentation: *CJOE Bigdatametrics 2025, CFE-CMStatistics 2025, Frontiers of Factor Investing Conference 2026*
+  Presentation: *CJOE Bigdatametrics Conference 2025, CFE-CMStatistics Conference 2025, Frontiers of Factor Investing Conference 2026*
 
 ---
 
