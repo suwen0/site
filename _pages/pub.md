@@ -11,7 +11,7 @@ redirect_from:
 
 Publications
 ------
-\#: Corresponding Author    \*: Alphabetical Order
+\#: Corresponding Author $\qquad$   \*: Alphabetical Order
 
 
 ---
