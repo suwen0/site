@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. student in Mathematical Institute, *University of Oxford*. 
 
-I am supervised by *Prof. Blanka Horvath* and supported by *J.P. Morgan* through [CDT in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk/).
+I am supervised by Prof. Blanka Horvath and supported by *J.P. Morgan* through [CDT in Mathematics of Random Systems](https://www.randomsystems-cdt.ac.uk/).
 
 Research Interests
 ------
@@ -49,6 +49,7 @@ Work Experience
 Teaching Assistant
 ------
 - Fixed Point Methods for Nonlinear PDEs (Part C), 2023 Hilary Term, University of Oxford
+- Financial Economics (Graduate), 2022 Fall, Peking University
 - Statistical Inference (Graduate), 2022 Spring, Peking University
 
 
